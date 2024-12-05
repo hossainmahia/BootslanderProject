@@ -1,4 +1,4 @@
-# BootslanderProject
+
 HTML & CSS Assignment: Build a Project Similar to "Bootslander" 
 
 Objective
